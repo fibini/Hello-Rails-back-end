@@ -1,24 +1,67 @@
-# README
+# Hello-rails-back-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Set up a "Hello world" project with Ruby on Rails as back-end
 
-Things you may want to cover:
+You will create a Ruby on Rails application that allows the user to:
 
-* Ruby version
+This app was created with Rails
 
-* System dependencies
+# Link to React app
 
-* Configuration
+https://github.com/fibini/hello-react-front-end
 
-* Database creation
+## Built With:
 
-* Database initialization
+- Ruby on Rails
+- PostgresSQL
 
-* How to run the test suite
+Prerequisites
 
-* Services (job queues, cache servers, search engines, etc.)
+- Ruby 3.1.2 or newer
+- Rails 7.0.4 or newer
+- Git
+- NPM
+- PostgreSQL
+- Modern web browser
 
-* Deployment instructions
+## Getting Started
+- To get a local copy of this project clone this repository or download the Zip folder:
+git clone https://github.com/fibini/Hello-Rails-back-end
 
-* ...
+- To get started, In the root directory run:
+gem install bundler
+
+- Then run:
+bundle install
+
+- Run ruby on rails app in the Command Line:
+rails s
+
+- Then browse http://localhost:3000
+
+### Usage
+
+To edit this project:
+
+- Open the repository you cloned with a code editor that you like.
+
+- Edit the code as you want.
+
+## Author:
+
+👤 **Fabien**
+
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-fibini-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/fibini)
+
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-Onenewpage1-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/Onenewpage1)
+
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-FabienBrathwaite-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)](https://www.linkedin.com/in/fabien-brathwaite/)
+
+
+## :star2: Show your support
+
+Give a :star: if you like my project!
+
+## :pencil: License
+
+This project is [MIT]
